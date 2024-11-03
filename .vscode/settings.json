@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "prettier.enable": false,
+  "editor.rulers": [
+    80
+  ],
+  "conventionalCommits.scopes": [
+    "package.json",
+    "deps"
+  ]
+}
